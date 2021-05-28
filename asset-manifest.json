@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LaneYang/cv.github.io/static/css/main.40f0e6cc.chunk.css",
+    "main.js": "/LaneYang/cv.github.io/static/js/main.71f0ee1d.chunk.js",
+    "main.js.map": "/LaneYang/cv.github.io/static/js/main.71f0ee1d.chunk.js.map",
+    "runtime-main.js": "/LaneYang/cv.github.io/static/js/runtime-main.0c2df5af.js",
+    "runtime-main.js.map": "/LaneYang/cv.github.io/static/js/runtime-main.0c2df5af.js.map",
+    "static/css/2.d64471e2.chunk.css": "/LaneYang/cv.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.7bc6c8f7.chunk.js": "/LaneYang/cv.github.io/static/js/2.7bc6c8f7.chunk.js",
+    "static/js/2.7bc6c8f7.chunk.js.map": "/LaneYang/cv.github.io/static/js/2.7bc6c8f7.chunk.js.map",
+    "index.html": "/LaneYang/cv.github.io/index.html",
+    "precache-manifest.b2a60c58bf8ad1bf7e1b56c900f2f5ba.js": "/LaneYang/cv.github.io/precache-manifest.b2a60c58bf8ad1bf7e1b56c900f2f5ba.js",
+    "service-worker.js": "/LaneYang/cv.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/LaneYang/cv.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.40f0e6cc.chunk.css.map": "/LaneYang/cv.github.io/static/css/main.40f0e6cc.chunk.css.map",
+    "static/js/2.7bc6c8f7.chunk.js.LICENSE.txt": "/LaneYang/cv.github.io/static/js/2.7bc6c8f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c2df5af.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.7bc6c8f7.chunk.js",
+    "static/css/main.40f0e6cc.chunk.css",
+    "static/js/main.71f0ee1d.chunk.js"
+  ]
+}
